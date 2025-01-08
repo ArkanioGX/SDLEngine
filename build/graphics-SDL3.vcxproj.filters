@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Mat4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\QuadObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene01Clear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene02Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene03VertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene04CullModes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene05TriangleIndex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene06Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Scene07MovingQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mollet.clarence\Documents\GitHub\VulkanEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{32ABAEB1-AF20-354D-8406-126AD6A48149}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

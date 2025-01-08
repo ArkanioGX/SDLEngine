@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "xstring": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "locale": "cpp",
+        "optional": "cpp"
+    }
+}
